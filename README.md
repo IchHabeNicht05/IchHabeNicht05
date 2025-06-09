@@ -35,17 +35,9 @@
 
 | Projekt | Popis | Technologie |
 |--------|-------|-------------|
-| [🧠 EmoMind] | AI deník emocí propojený s mozkem – offline i online verze s terapeutickým AI chatem | Flutter / React Native, Firebase, AI |
-| [💼 Portfolio] | Webové portfolio s přehledem projektů | React, Tailwind, Vite |
-| [💬 Chat App] | Webová chatovací aplikace pro maturitní práci | React, Firebase, Zustand |
-
----
-
-## 📊 GitHub statistiky
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IchHabeNicht&layout=compact&theme=tokyonight" height="160"/>
-</p>
+| [EmoMind] | AI deník emocí propojený s mozkem – offline i online verze s terapeutickým AI chatem | Flutter / React Native, Firebase, AI |
+| [Portfolio] | Webové portfolio s přehledem projektů | React, Tailwind, Vite |
+| [Chat App] | Webová chatovací aplikace pro maturitní práci | React, Firebase, Zustand |
 
 ---
 
