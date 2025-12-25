@@ -43,15 +43,8 @@
 
 ## 🌐 Kontakt
 
-- 📧 Email: **habenicht.martin@gmail.com**
+- 📧 Email: **martin.habenicht05@gmail.com**
 - 💬 Discord: **IchHabeNicht**
-- 🌍 Portfolio web: *(již brzy!)*
-
----
-
-## 🧠 Motto
-
-> „Kombinace technologií a empatie tvoří budoucnost.“
 
 ---
 
