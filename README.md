@@ -10,7 +10,6 @@
 - 🔭 Aktuálně pracuji na: **EmoMind – AI deník emocí** (Flutter i React Native)
 - 🌱 Právě se učím: **Flutter**, **AI v mobilních aplikacích**, **TensorFlow Lite**, **Next.js**
 - 👯 Rád bych spolupracoval na: **projektech zaměřených na duševní zdraví, AI nebo edukaci**
-- 🤔 Hledám pomoc s: **testováním EmoMind a zpětnou vazbou na UX/UI**
 - 💬 Ptej se mě na: **React, Firebase, mobilní vývoj, design, AI integraci**
 - 📫 Kontaktuj mě: **martin.habenicht05@gmail.com**
 - 😄 Zájmena: **he / him**
