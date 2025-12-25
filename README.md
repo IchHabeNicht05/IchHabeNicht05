@@ -12,7 +12,7 @@
 - 👯 Rád bych spolupracoval na: **projektech zaměřených na duševní zdraví, AI nebo edukaci**
 - 🤔 Hledám pomoc s: **testováním EmoMind a zpětnou vazbou na UX/UI**
 - 💬 Ptej se mě na: **React, Firebase, mobilní vývoj, design, AI integraci**
-- 📫 Kontaktuj mě: **habenicht.martin@gmail.com**
+- 📫 Kontaktuj mě: **martin.habenicht05@gmail.com**
 - 😄 Zájmena: **he / him**
 - ⚡ Fun fact: Umím zkombinovat programování, design i AI do jednoho funkčního celku – většinu věcí si navrhnu, naprogramuju a dotáhnu sám.
 
